@@ -35,11 +35,29 @@ export class Tab1Page {
     {
       nome: 'Anônimo (2021)',
       lancamento: '12/05/2021',
-      duracao: 'Anônimo (2021)',
+      duracao: '1h 32m',
       classificacao: 84,
       cartaz: 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/woPYFGKwVULILbO7q44HmsNY0kO.jpg',
       generos: ['Ação', 'Thriller', 'Crime', 'Comédia'],
       pagina: '/anonimo'
+    },
+    {
+      nome: 'Godzilla vs. Kong (2021)',
+      lancamento: '01/04/2021',
+      duracao: '1h 53m',
+      classificacao: 81,
+      cartaz: 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg',
+      generos: ['Ação', 'Ficção científica'],
+      pagina: '/godzilla'
+    },
+    {
+      nome: 'Na Mira do Perigo (2021)',
+      lancamento: '18/02/2021 ',
+      duracao: '1h 48m',
+      classificacao: 74,
+      cartaz: 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wAJniojhHa4oVKa9AxdNwvpmS74.jpg',
+      generos: ['Ação', 'Thriller', 'Crime'],
+      pagina: '/na-mira-do-perigo'
     },
   ];
   constructor(
